@@ -1,86 +1,150 @@
 {
-    "assetTypes":[
-    {
-        "AssetId": 82037,
-        "AssetCode": "13869",
-        "AssetName": "(OTHER) TRIAXLE REFRIGERATED SEMI-TRAILER - DUAL TEMPERATURE WITH THERMOKING SLX-SPECTRUM 200 UNIT AND ´DOUBLE DECK´ BEAM TYPE RACKING SYSTEM",
-        "BrandCode": "478",
-        "KindOfObjectName": "Refrigerated Trailer",
-        "KindOfObjectCode": "NFZ_2665"
-    },
-    {
-        "AssetId": 82901,
-        "AssetCode": "16258",
-        "AssetName": "(OTHER) TRIAXLE REFRIGERATED SEMI-TRAILER - DUAL TEMPERATURE WITH THERMOKING SLX-SPECTRUM 200 UNIT AND DOUBLE DECK BEAM TYPE RACKING SYSTEM",
-        "BrandCode": "478",
-        "KindOfObjectName": "Refrigerated Trailer",
-        "KindOfObjectCode": "NFZ_2665"
-    },
-    {
-        "AssetId": 81713,
-        "AssetCode": "13870",
-        "AssetName": "(OTHER) TRIAXLE REFRIGERATED SEMI-TRAILER - SINGLE TEMPERATURE WITH THERMOKING SLX-300 UNIT AND ´DOUBLE DECK´ BEAM TYPE RACKING SYSTEM",
-        "BrandCode": "478",
-        "KindOfObjectName": "Refrigerated Trailer",
-        "KindOfObjectCode": "NFZ_2665"
-    },
-    {
-        "AssetId": 111345,
-        "AssetCode": "101746",
-        "AssetName": "AFG",
-        "BrandCode": "478",
-        "KindOfObjectName": "Hauled trailer",
-        "KindOfObjectCode": "NFZ_12"
-    },
-    {
-        "AssetId": 111232,
-        "AssetCode": "101213",
-        "AssetName": "AFG 18",
-        
-        "BrandCode": "478",
-        "KindOfObjectName": "Hauled trailer",
-        "KindOfObjectCode": "NFZ_12"
-    },
-    {
-        "AssetId": 111229,
-        "AssetCode": "101214",
-        "AssetName": "AFG 18 - V",
-        
-        "BrandCode": "478",
-        "KindOfObjectName": "Hauled trailer",
-        "KindOfObjectCode": "NFZ_12"
-    },
-    {
-        "AssetId": 111328,
-        "AssetCode": "101747",
-        "AssetName": "AKO",
-        "BrandCode": "478",
-        "KindOfObjectName": "Dryfreight Trailer Drawbar",
-        "KindOfObjectCode": "NFZ_40902"
-    },
-    {
-        "AssetId": 79950,
-        "AssetCode": "10723",
-        "AssetName": "AKO 18",
-        "BrandCode": "478",
-        "KindOfObjectName": "Refrigerated Trailer",
-        "KindOfObjectCode": "NFZ_2665"
-    },
-    {
-        "AssetId": 82648,
-        "AssetCode": "14699",
-        "AssetName": "AKO 18 L- FP 45 COOL+ FRIGOBLOCK",
-        "BrandCode": "478",
-        "KindOfObjectName": "Refrigerated Trailer",
-        "KindOfObjectCode": "NFZ_2665"
-    },
-    {
-        "AssetId": 111238,
-        "AssetCode": "101215",
-        "AssetName": "AKO 18/L - FP 45 COOL",
-        "BrandCode": "478",
-        "KindOfObjectName": "Refrigerated Trailer Drawbar",
-        "KindOfObjectCode": "NFZ_40901"
-    }
-]
+    "assetTypes":
+    [
+        {
+            "AssetId": 82037,
+            "AssetCode": "13869",
+            "AssetName": "(OTHER) TRIAXLE REFRIGERATED SEMI-TRAILER - DUAL TEMPERATURE WITH THERMOKING SLX-SPECTRUM 200 UNIT AND ´DOUBLE DECK´ BEAM TYPE RACKING SYSTEM",
+            "BrandCode": "478",
+            "KindOfObjectName": "Refrigerated Trailer",
+            "KindOfObjectCode": "NFZ_2665"
+        },
+        {
+            "AssetId": 82901,
+            "AssetCode": "16258",
+            "AssetName": "(OTHER) TRIAXLE REFRIGERATED SEMI-TRAILER - DUAL TEMPERATURE WITH THERMOKING SLX-SPECTRUM 200 UNIT AND DOUBLE DECK BEAM TYPE RACKING SYSTEM",
+            "BrandCode": "478",
+            "KindOfObjectName": "Refrigerated Trailer",
+            "KindOfObjectCode": "NFZ_2665"
+        },
+        {
+            "AssetId": 81713,
+            "AssetCode": "13870",
+            "AssetName": "(OTHER) TRIAXLE REFRIGERATED SEMI-TRAILER - SINGLE TEMPERATURE WITH THERMOKING SLX-300 UNIT AND ´DOUBLE DECK´ BEAM TYPE RACKING SYSTEM",
+            "BrandCode": "478",
+            "KindOfObjectName": "Refrigerated Trailer",
+            "KindOfObjectCode": "NFZ_2665"
+        },
+        {
+            "AssetId": 111345,
+            "AssetCode": "101746",
+            "AssetName": "AFG",
+            "BrandCode": "478",
+            "KindOfObjectName": "Hauled trailer",
+            "KindOfObjectCode": "NFZ_12"
+        },
+        {
+            "AssetId": 111232,
+            "AssetCode": "101213",
+            "AssetName": "AFG 18",
+
+            "BrandCode": "478",
+            "KindOfObjectName": "Hauled trailer",
+            "KindOfObjectCode": "NFZ_12"
+        },
+        {
+            "AssetId": 111229,
+            "AssetCode": "101214",
+            "AssetName": "AFG 18 - V",
+
+            "BrandCode": "478",
+            "KindOfObjectName": "Hauled trailer",
+            "KindOfObjectCode": "NFZ_12"
+        },
+        {
+            "AssetId": 111328,
+            "AssetCode": "101747",
+            "AssetName": "AKO",
+            "BrandCode": "478",
+            "KindOfObjectName": "Dryfreight Trailer Drawbar",
+            "KindOfObjectCode": "NFZ_40902"
+        },
+        {
+            "AssetId": 79950,
+            "AssetCode": "10723",
+            "AssetName": "AKO 18",
+            "BrandCode": "478",
+            "KindOfObjectName": "Refrigerated Trailer",
+            "KindOfObjectCode": "NFZ_2665"
+        },
+        {
+            "AssetId": 82648,
+            "AssetCode": "14699",
+            "AssetName": "AKO 18 L- FP 45 COOL+ FRIGOBLOCK",
+            "BrandCode": "478",
+            "KindOfObjectName": "Refrigerated Trailer",
+            "KindOfObjectCode": "NFZ_2665"
+        },
+        {
+            "AssetId": 111238,
+            "AssetCode": "101215",
+            "AssetName": "AKO 18/L - FP 45 COOL",
+            "BrandCode": "478",
+            "KindOfObjectName": "Refrigerated Trailer Drawbar",
+            "KindOfObjectCode": "NFZ_40901"
+        }
+    ],
+    "definitions":
+    [
+        {
+            "ProductId": 2,
+            "ProductName": "Financial Lease",
+            "InterestTypeId": 70,
+            "InterestTypeName": "Fixed EUR",
+            "ScheduleTypes": [
+                {
+                    "ScheduleTypeId": 50348567,
+                    "ScheduleTypeName": "Advance"
+                },
+                {
+                    "ScheduleTypeId": 50348568,
+                    "ScheduleTypeName": "Arrears"
+                },
+                {
+                    "ScheduleTypeId": 50348563,
+                    "ScheduleTypeName": "Equal principal"
+                }
+            ]
+        },
+        {
+            "ProductId": 4,
+            "ProductName": "Rent without purchase option",
+            "InterestTypeId": 70,
+            "InterestTypeName": "Fixed EUR",
+            "ScheduleTypes": [
+                {
+                    "ScheduleTypeId": 50348567,
+                    "ScheduleTypeName": "Advance"
+                },
+                {
+                    "ScheduleTypeId": 50348568,
+                    "ScheduleTypeName": "Arrears"
+                },
+                {
+                    "ScheduleTypeId": 50348563,
+                    "ScheduleTypeName": "Equal principal"
+                }
+            ]
+        },
+        {
+            "ProductId": 6,
+            "ProductName": "Rent with purchase option",
+            "InterestTypeId": 70,
+            "InterestTypeName": "Fixed EUR",
+            "ScheduleTypes": [
+                {
+                    "ScheduleTypeId": 50348567,
+                    "ScheduleTypeName": "Advance"
+                },
+                {
+                    "ScheduleTypeId": 50348568,
+                    "ScheduleTypeName": "Arrears"
+                },
+                {
+                    "ScheduleTypeId": 50348563,
+                    "ScheduleTypeName": "Equal principal"
+                }
+            ]
+        },        
+   ]
 }
