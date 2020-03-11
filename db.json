@@ -59,7 +59,7 @@
         },
         {
             "ProductId": 4,
-            "ProductName": "Rent without purchase option",
+            "ProductName": "Higher Purchase without Guarantee",
             "InterestTypeId": 70,
             "InterestTypeName": "Fixed EUR",
             "ScheduleTypes": [
@@ -79,7 +79,7 @@
         },
         {
             "ProductId": 6,
-            "ProductName": "Rent with purchase option",
+            "ProductName": "Higher Purchase with Guarantee",
             "InterestTypeId": 70,
             "InterestTypeName": "Fixed EUR",
             "ScheduleTypes": [
