@@ -157,5 +157,5 @@
         {"FieldName":"RiskExpressLease_Turnover"},
         {"FieldName":"RiskExpressLease_DateofFinancialStatement"},
         {"FieldName":"RiskExpressLease_YearsInBusiness" }
-    ],
+    ]
 }
