@@ -2,7 +2,7 @@
    "fields":[
       {
          "FieldName":"Local_CBproperty1",
-         "Enabled":false
+         "Enabled":true
       },
       {
          "FieldName":"Local_CBproperty2_Risk_PaymentindicationoflocalCB1",
