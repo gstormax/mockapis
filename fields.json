@@ -194,7 +194,7 @@
       },
       {
          "FieldName":"RiskExpressLease_OperatingProfit",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "FieldName":"RiskExpressLease_NetProfit",
