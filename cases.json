@@ -15,7 +15,7 @@
          "CB Payment Index":8,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL465",
@@ -32,7 +32,7 @@
          "CB Payment Index":6.8,
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":302459,
@@ -49,7 +49,7 @@
          "CB Payment Index":6.8,
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES467",
@@ -66,7 +66,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES468",
@@ -83,7 +83,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES469",
@@ -100,7 +100,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES470",
@@ -117,7 +117,7 @@
          "CB Payment Index":"",
          "Total_assets":"",
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES471",
@@ -134,7 +134,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES472",
@@ -151,7 +151,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":1000000,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":425113439,
@@ -168,7 +168,7 @@
          "CB Payment Index":"",
          "Total_assets":"",
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL466",
@@ -185,7 +185,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES473",
@@ -202,7 +202,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES474",
@@ -219,7 +219,7 @@
          "CB Payment Index":"",
          "Total_assets":300000,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES475",
@@ -236,7 +236,7 @@
          "CB Payment Index":7,
          "Total_assets":300000,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES476",
@@ -253,7 +253,7 @@
          "CB Payment Index":6,
          "Total_assets":300000,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"ES477",
@@ -270,7 +270,7 @@
          "CB Payment Index":5,
          "Total_assets":300000,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"PT500",
@@ -304,7 +304,7 @@
          "CB Payment Index":4.8,
          "Total_assets":10827532,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"PT401",
@@ -950,7 +950,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE112",
@@ -967,7 +967,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE113",
@@ -984,7 +984,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE114",
@@ -1001,7 +1001,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE115",
@@ -1018,7 +1018,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE116",
@@ -1035,7 +1035,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE117",
@@ -1052,7 +1052,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE118",
@@ -1069,7 +1069,7 @@
          "CB Payment Index":"",
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE119",
@@ -1086,7 +1086,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE120",
@@ -1103,7 +1103,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE121",
@@ -1120,7 +1120,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE122",
@@ -1154,7 +1154,7 @@
          "CB Payment Index":5.5,
          "Total_assets":"",
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"PT131",
@@ -1205,7 +1205,7 @@
          "CB Payment Index":5.5,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE125",
@@ -1222,7 +1222,7 @@
          "CB Payment Index":6.2,
          "Total_assets":10827523,
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE126",
@@ -1239,7 +1239,7 @@
          "CB Payment Index":6.2,
          "Total_assets":"",
          "Turnover":"",
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"PT133",
@@ -1273,7 +1273,7 @@
          "CB Payment Index":6,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE456",
@@ -1290,7 +1290,7 @@
          "CB Payment Index":6,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL457",
@@ -1307,7 +1307,7 @@
          "CB Payment Index":-2,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE457",
@@ -1324,7 +1324,7 @@
          "CB Payment Index":-2,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL458",
@@ -1341,7 +1341,7 @@
          "CB Payment Index":7,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL459",
@@ -1358,7 +1358,7 @@
          "CB Payment Index":5,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL460",
@@ -1375,7 +1375,7 @@
          "CB Payment Index":7,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL461",
@@ -1392,7 +1392,7 @@
          "CB Payment Index":-1,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL462",
@@ -1409,7 +1409,7 @@
          "CB Payment Index":10,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE458",
@@ -1426,7 +1426,7 @@
          "CB Payment Index":7,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE459",
@@ -1443,7 +1443,7 @@
          "CB Payment Index":5,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE460",
@@ -1460,7 +1460,7 @@
          "CB Payment Index":7,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE461",
@@ -1477,7 +1477,7 @@
          "CB Payment Index":-1,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE462",
@@ -1494,7 +1494,7 @@
          "CB Payment Index":10,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL463",
@@ -1511,7 +1511,7 @@
          "CB Payment Index":6,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE463",
@@ -1528,7 +1528,7 @@
          "CB Payment Index":6,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL500",
@@ -1545,7 +1545,7 @@
          "CB Payment Index":"",
          "Total_assets":1818665.74,
          "Turnover":130345.7,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"NL458",
@@ -1562,7 +1562,7 @@
          "CB Payment Index":7,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       },
       {
          "ID":"BE458",
@@ -1579,7 +1579,7 @@
          "CB Payment Index":7,
          "Total_assets":0,
          "Turnover":0,
-         "Enabled":true
+         "Enabled":false
       }
    ]
 }
