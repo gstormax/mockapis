@@ -12,7 +12,7 @@
          "Net_Profit":"",
          "Number_of_Employees":12,
          "CB_Rating":15,
-         "CB Payment Index":8,
+         "CBPaymentIndex":8,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -29,7 +29,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":12,
          "CB_Rating":2,
-         "CB Payment Index":6.8,
+         "CBPaymentIndex":6.8,
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -46,7 +46,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":1,
          "CB_Rating":6,
-         "CB Payment Index":6.8,
+         "CBPaymentIndex":6.8,
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -63,7 +63,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":20,
          "CB_Rating":"",
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -80,7 +80,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":20,
          "CB_Rating":6,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -97,7 +97,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":20,
          "CB_Rating":10,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -114,7 +114,7 @@
          "Net_Profit":"",
          "Number_of_Employees":20,
          "CB_Rating":10,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":"",
          "Turnover":1000000,
          "Enabled":false
@@ -131,7 +131,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":20,
          "CB_Rating":6,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -148,7 +148,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":20,
          "CB_Rating":6,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":false
@@ -165,7 +165,7 @@
          "Net_Profit":"",
          "Number_of_Employees":"",
          "CB_Rating":"",
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":"",
          "Turnover":"",
          "Enabled":false
@@ -182,7 +182,7 @@
          "Net_Profit":"",
          "Number_of_Employees":"",
          "CB_Rating":4,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":"",
          "Enabled":false
@@ -199,7 +199,7 @@
          "Net_Profit":"",
          "Number_of_Employees":25,
          "CB_Rating":10,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":"",
          "Enabled":false
@@ -216,7 +216,7 @@
          "Net_Profit":"",
          "Number_of_Employees":"",
          "CB_Rating":10,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":300000,
          "Turnover":"",
          "Enabled":false
@@ -233,7 +233,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":"",
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":300000,
          "Turnover":"",
          "Enabled":false
@@ -250,7 +250,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":200,
          "CB_Rating":-1,
-         "CB Payment Index":6,
+         "CBPaymentIndex":6,
          "Total_assets":300000,
          "Turnover":"",
          "Enabled":false
@@ -267,7 +267,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":150,
          "CB_Rating":22,
-         "CB Payment Index":5,
+         "CBPaymentIndex":5,
          "Total_assets":300000,
          "Turnover":"",
          "Enabled":false
@@ -284,7 +284,7 @@
          "Net_Profit":50000,
          "Number_of_Employees":1,
          "CB_Rating":9,
-         "CB Payment Index":9,
+         "CBPaymentIndex":9,
          "Total_assets":300000,
          "Turnover":1000000,
          "Enabled":true
@@ -301,7 +301,7 @@
          "Net_Profit":"",
          "Number_of_Employees":1,
          "CB_Rating":2,
-         "CB Payment Index":4.8,
+         "CBPaymentIndex":4.8,
          "Total_assets":10827532,
          "Turnover":"",
          "Enabled":false
@@ -318,7 +318,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":"",
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -335,7 +335,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":3,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -352,7 +352,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":11,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -369,7 +369,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":5,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -386,7 +386,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -403,7 +403,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -420,7 +420,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -437,7 +437,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -454,7 +454,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -471,7 +471,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -488,7 +488,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":"",
          "Enabled":true
@@ -505,7 +505,7 @@
          "Net_Profit":"",
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -522,7 +522,7 @@
          "Net_Profit":-94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -539,7 +539,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -556,7 +556,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -573,7 +573,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -590,7 +590,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -607,7 +607,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -624,7 +624,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -641,7 +641,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -658,7 +658,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -675,7 +675,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":"",
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -692,7 +692,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":1,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -709,7 +709,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":1,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -726,7 +726,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -743,7 +743,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -760,7 +760,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -777,7 +777,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -794,7 +794,7 @@
          "Net_Profit":-194072,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -811,7 +811,7 @@
          "Net_Profit":100,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -828,7 +828,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":130345.7,
          "Enabled":true
@@ -845,7 +845,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":4,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -862,7 +862,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":3,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -879,7 +879,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":-1818665,
          "Turnover":3247608.7,
          "Enabled":true
@@ -896,7 +896,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -913,7 +913,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":818665.74,
          "Turnover":3247608.7,
          "Enabled":true
@@ -930,7 +930,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":47608.7,
          "Enabled":true
@@ -947,7 +947,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -964,7 +964,7 @@
          "Net_Profit":"",
          "Number_of_Employees":8,
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -981,7 +981,7 @@
          "Net_Profit":"",
          "Number_of_Employees":6,
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -998,7 +998,7 @@
          "Net_Profit":"",
          "Number_of_Employees":"",
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1015,7 +1015,7 @@
          "Net_Profit":"",
          "Number_of_Employees":3,
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1032,7 +1032,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1049,7 +1049,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":4,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1066,7 +1066,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":"",
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1083,7 +1083,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":1,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1100,7 +1100,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":8,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1117,7 +1117,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":6,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1134,7 +1134,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":4,
-         "CB Payment Index":5.5,
+         "CBPaymentIndex":5.5,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":true
@@ -1151,7 +1151,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":2,
-         "CB Payment Index":5.5,
+         "CBPaymentIndex":5.5,
          "Total_assets":"",
          "Turnover":"",
          "Enabled":false
@@ -1168,7 +1168,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":47608.7,
          "Enabled":true
@@ -1185,7 +1185,7 @@
          "Net_Profit":"",
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":"",
          "Turnover":"",
          "Enabled":true
@@ -1202,7 +1202,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":4,
-         "CB Payment Index":5.5,
+         "CBPaymentIndex":5.5,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1219,7 +1219,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":2,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":10827523,
          "Turnover":"",
          "Enabled":false
@@ -1236,7 +1236,7 @@
          "Net_Profit":"",
          "Number_of_Employees":10,
          "CB_Rating":6,
-         "CB Payment Index":6.2,
+         "CBPaymentIndex":6.2,
          "Total_assets":"",
          "Turnover":"",
          "Enabled":false
@@ -1253,7 +1253,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":47608.7,
          "Enabled":true
@@ -1270,7 +1270,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":4,
-         "CB Payment Index":6,
+         "CBPaymentIndex":6,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1287,7 +1287,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":4,
-         "CB Payment Index":6,
+         "CBPaymentIndex":6,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1304,7 +1304,7 @@
          "Net_Profit":"",
          "Number_of_Employees":1,
          "CB_Rating":1,
-         "CB Payment Index":-2,
+         "CBPaymentIndex":-2,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1321,7 +1321,7 @@
          "Net_Profit":"",
          "Number_of_Employees":1,
          "CB_Rating":1,
-         "CB Payment Index":-2,
+         "CBPaymentIndex":-2,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1338,7 +1338,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":9,
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1355,7 +1355,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":6,
-         "CB Payment Index":5,
+         "CBPaymentIndex":5,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1372,7 +1372,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":7,
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1389,7 +1389,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":-1,
-         "CB Payment Index":-1,
+         "CBPaymentIndex":-1,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1406,7 +1406,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":"",
-         "CB Payment Index":10,
+         "CBPaymentIndex":10,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1423,7 +1423,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":9,
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1440,7 +1440,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":6,
-         "CB Payment Index":5,
+         "CBPaymentIndex":5,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1457,7 +1457,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":7,
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1474,7 +1474,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":-1,
-         "CB Payment Index":-1,
+         "CBPaymentIndex":-1,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1491,7 +1491,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":"",
-         "CB Payment Index":10,
+         "CBPaymentIndex":10,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1508,7 +1508,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":4,
-         "CB Payment Index":6,
+         "CBPaymentIndex":6,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1525,7 +1525,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":4,
-         "CB Payment Index":6,
+         "CBPaymentIndex":6,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1542,7 +1542,7 @@
          "Net_Profit":94072.28,
          "Number_of_Employees":21,
          "CB_Rating":9,
-         "CB Payment Index":"",
+         "CBPaymentIndex":"",
          "Total_assets":1818665.74,
          "Turnover":130345.7,
          "Enabled":false
@@ -1559,7 +1559,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":2,
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
@@ -1576,7 +1576,7 @@
          "Net_Profit":"",
          "Number_of_Employees":11,
          "CB_Rating":2,
-         "CB Payment Index":7,
+         "CBPaymentIndex":7,
          "Total_assets":0,
          "Turnover":0,
          "Enabled":false
