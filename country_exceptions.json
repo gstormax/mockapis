@@ -1,0 +1,44 @@
+[
+    {
+        "country": "NL",
+        "CommunicationException": 0,
+        "FaultException": 0,
+        "ProtocolException": 0,
+        "ReplyClientValidationException": 7
+    },
+    {
+        "country": "ES",
+        "CommunicationException": 0,
+        "FaultException": 0,
+        "ProtocolException": 15,
+        "ReplyClientValidationException": 0
+    },
+    {
+        "country": "RO",
+        "CommunicationException": 77,
+        "FaultException": 1,
+        "ProtocolException": 25,
+        "ReplyClientValidationException": 0
+    },
+    {
+        "country": "HU",
+        "CommunicationException": 0,
+        "FaultException": 0,
+        "ProtocolException": 0,
+        "ReplyClientValidationException": 0
+    },
+    {
+        "country": "AT",
+        "CommunicationException": 0,
+        "FaultException": 0,
+        "ProtocolException": 0,
+        "ReplyClientValidationException": 0
+    },
+    {
+        "country": "PL",
+        "CommunicationException": 0,
+        "FaultException": 0,
+        "ProtocolException": 0,
+        "ReplyClientValidationException": 0
+    }
+]
